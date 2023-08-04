@@ -27,8 +27,6 @@ Provide instructions on how to use the project, including examples of running th
 python main.py --config config.yaml
 Documentation
 
-Provide links to detailed documentation, API references, and other resources to help users understand the project.
-
 Contributing
 
 If you would like to contribute to the project, please follow the contribution guidelines.
@@ -36,10 +34,6 @@ If you would like to contribute to the project, please follow the contribution g
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Acknowledgments
-
-Acknowledge the contributors, sponsors, and any other relevant parties involved in the project.
 
 Contact
 
